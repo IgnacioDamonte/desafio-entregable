@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"title": "producto prueba",
+		"description": "producto prueba",
+		"price": "200",
+		"code": "abc123",
+		"stock": "20"
+	},
+	{
+		"id": 2,
+		"title": "producto prueba alt",
+		"description": "producto de prueba modificado",
+		"price": "50",
+		"code": "abc143",
+		"stock": "10"
+	}
+]
